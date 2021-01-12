@@ -4,6 +4,12 @@ Eat-Da-Burger! is a restaurant app that lets users input the names of burgers th
 
 ## Preview
 
+![Burger-loggerGIF](./usage.gif)
+
+## Video Guide
+
+![Burger-loggerGIF] (./usage.mov)
+
 ## Getting Started
 
 Download zip file or Git Clone repository will get you a copy of the project up and running on your local machine for development and testing purposes.
