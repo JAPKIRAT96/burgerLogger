@@ -8,7 +8,7 @@ Eat-Da-Burger! is a restaurant app that lets users input the names of burgers th
 
 ## Video Guide
 
-![Burger-loggerVideo](https://youtu.be/xUSQ9Wv97hg)
+https://youtu.be/xUSQ9Wv97hg
 
 ## Getting Started
 
