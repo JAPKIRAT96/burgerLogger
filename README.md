@@ -8,7 +8,7 @@ Eat-Da-Burger! is a restaurant app that lets users input the names of burgers th
 
 ## Video Guide
 
-![Burger-loggerGIF] (./usage.mov)
+![Burger-loggerGIF](./usage.mov)
 
 ## Getting Started
 
@@ -17,8 +17,6 @@ Download zip file or Git Clone repository will get you a copy of the project up 
 ### Setup and Execution
 
 - npm install
-
-## Built With
 
 ### Code Organisation
 
@@ -53,7 +51,7 @@ Download zip file or Git Clone repository will get you a copy of the project up 
 
 ## Author
 
-- **Japkirat Singh** - _Eat-Da-Burger_ - [xmkchen](https://github.com/JAPKIRAT96/burgerLogger.git)
+- **Japkirat Singh** - _Eat-Da-Burger_ - [Japkirat Singh](https://github.com/JAPKIRAT96/burgerLogger.git)
 
 ## License
 
